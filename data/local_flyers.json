@@ -1,0 +1,629 @@
+[
+  {
+    "name": "Gala Apples",
+    "originalQuery": "gala apples",
+    "walmart": {
+      "available": true,
+      "price": 1.97,
+      "unit": "lb",
+      "deal": "Rollback Special",
+      "details": "Fresh Ontario local crop, sweet and crisp."
+    },
+    "freshco": {
+      "available": true,
+      "price": 2.49,
+      "unit": "lb",
+      "deal": "Regular Price",
+      "details": "Premium Red Gala Apples bulk display."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.88,
+      "unit": "lb",
+      "deal": "Basics Super Deal",
+      "details": "Gala Apples Ontario Orchard box."
+    },
+    "metro": {
+      "available": true,
+      "price": 2.99,
+      "unit": "lb",
+      "deal": "Regular Price",
+      "details": "Grade A extra sweet Gala Apples."
+    },
+    "comparisonReasoning": "Food Basics has the absolute lowest flyer pricing on local Gala Apples at $1.88/lb, closely followed by Walmart's Rollback price of $1.97/lb."
+  },
+  {
+    "name": "Iceberg Lettuce",
+    "originalQuery": "lettuce",
+    "walmart": {
+      "available": true,
+      "price": 2.47,
+      "unit": "each",
+      "deal": "Regular Price",
+      "details": "Fresh Head Iceberg Lettuce."
+    },
+    "freshco": {
+      "available": true,
+      "price": 1.99,
+      "unit": "each",
+      "deal": "Weekly Flyer Special",
+      "details": "Compliments Crispy Iceberg Lettuce."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.88,
+      "unit": "each",
+      "deal": "Weekly Flyer Special",
+      "details": "Selection Premium Lettuce Head."
+    },
+    "metro": {
+      "available": true,
+      "price": 2.49,
+      "unit": "each",
+      "deal": "Member Rewards Promo",
+      "details": "Crisp Iceberg Head."
+    },
+    "comparisonReasoning": "Food Basics ($1.88) and FreshCo ($1.99) are both running great leafy greens promotions this week, saving you up to $0.60 per head."
+  },
+  {
+    "name": "2% Milk (4L)",
+    "originalQuery": "milk",
+    "walmart": {
+      "available": true,
+      "price": 5.27,
+      "unit": "4L bag",
+      "deal": "Standard Price",
+      "details": "Neilson 2% Milk 3-Pack Bags (Ontario standard regulated pricing)."
+    },
+    "freshco": {
+      "available": true,
+      "price": 5.35,
+      "unit": "4L bag",
+      "deal": "Regular Price",
+      "details": "Beatrice 2% Filtered Milk Bags."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 5.27,
+      "unit": "4L bag",
+      "deal": "Regular Price",
+      "details": "Selection 2% Bagged Milk."
+    },
+    "metro": {
+      "available": true,
+      "price": 5.49,
+      "unit": "4L bag",
+      "deal": "Regular Price",
+      "details": "Lactantia PurFil 2% Filtered Milk."
+    },
+    "comparisonReasoning": "Ontario dairy products are highly regulated; Walmart and Food Basics both carry the baseline regulated price of $5.27 for 4L bags."
+  },
+  {
+    "name": "Boneless Skinless Chicken Breast",
+    "originalQuery": "chicken",
+    "walmart": {
+      "available": true,
+      "price": 15.42,
+      "unit": "kg",
+      "deal": "Value Club Pack",
+      "details": "Maple Leaf prime cut skinless boneless chicken breast pack."
+    },
+    "freshco": {
+      "available": true,
+      "price": 12.50,
+      "unit": "kg",
+      "deal": "Weekly Flyer Special",
+      "details": "Fresh Valley Farms bone-out chicken breast club pack."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 11.98,
+      "unit": "kg",
+      "deal": "Basics Super Deal",
+      "details": "Selection grade fresh chicken breasts bulk pack."
+    },
+    "metro": {
+      "available": true,
+      "price": 13.99,
+      "unit": "kg",
+      "deal": "Flyer Special",
+      "details": "Prime Boneless cuts wrapper."
+    },
+    "comparisonReasoning": "Food Basics has a super deal on bulk fresh chicken breasts at $11.98/kg, beating out FreshCo's weekly sale of $12.50/kg."
+  },
+  {
+    "name": "Large Grade A Eggs",
+    "originalQuery": "eggs",
+    "walmart": {
+      "available": true,
+      "price": 4.18,
+      "unit": "pack of 12",
+      "deal": "Rollback Special",
+      "details": "Great Value Large White Eggs."
+    },
+    "freshco": {
+      "available": true,
+      "price": 3.99,
+      "unit": "pack of 12",
+      "deal": "Scene+ Flyer Special",
+      "details": "Compliments Large White Grade A Eggs."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 3.88,
+      "unit": "pack of 12",
+      "deal": "Weekly Stock Promo",
+      "details": "Selection Grade A Large Eggs."
+    },
+    "metro": {
+      "available": true,
+      "price": 4.29,
+      "unit": "pack of 12",
+      "deal": "Regular Price",
+      "details": "Burnbrae Farms Large White Eggs."
+    },
+    "comparisonReasoning": "Food Basics is leading egg prices at $3.88 per carton, closely followed by FreshCo's Scene+ special of $3.99."
+  },
+  {
+    "name": "White Sandwich Bread",
+    "originalQuery": "bread",
+    "walmart": {
+      "available": true,
+      "price": 2.17,
+      "unit": "675g loaf",
+      "deal": "Rollback Special",
+      "details": "Wonder White Bread ultra-soft sandwich slice."
+    },
+    "freshco": {
+      "available": true,
+      "price": 2.49,
+      "unit": "675g loaf",
+      "deal": "Regular Price",
+      "details": "Dempster's Classic White Sandwich Bread."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 2.19,
+      "unit": "675g loaf",
+      "deal": "Regular Price",
+      "details": "Selection Soft White Sliced Loaf."
+    },
+    "metro": {
+      "available": true,
+      "price": 2.99,
+      "unit": "675g loaf",
+      "deal": "Regular Price",
+      "details": "Dempster's Signature Sliced Loaf."
+    },
+    "comparisonReasoning": "Wonder slices at Walmart are on a Rollback promotion for $2.17, which is the most affordable bread pick this week."
+  },
+  {
+    "name": "Cavendish Bananas",
+    "originalQuery": "bananas",
+    "walmart": {
+      "available": true,
+      "price": 0.59,
+      "unit": "lb",
+      "deal": "Regular Price",
+      "details": "Sweet Yellow Cavendish Bananas."
+    },
+    "freshco": {
+      "available": true,
+      "price": 0.62,
+      "unit": "lb",
+      "deal": "Regular Price",
+      "details": "Premium Selected Cavendish Bananas."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 0.57,
+      "unit": "lb",
+      "deal": "Basics Lower Price",
+      "details": "Cavendish yellow cluster bananas."
+    },
+    "metro": {
+      "available": true,
+      "price": 0.69,
+      "unit": "lb",
+      "deal": "Regular Price",
+      "details": "Chiquita Premium Cavendish Bananas."
+    },
+    "comparisonReasoning": "Food Basics holds the lowest rate for fresh fruit clusters at $0.57/lb, with Walmart at $0.59/lb closely behind."
+  },
+  {
+    "name": "English Seedless Cucumber",
+    "originalQuery": "cucumber",
+    "walmart": {
+      "available": true,
+      "price": 1.47,
+      "unit": "each",
+      "deal": "Rollback Special",
+      "details": "Local Ottawa greenhouse English seedless cucumber."
+    },
+    "freshco": {
+      "available": true,
+      "price": 1.29,
+      "unit": "each",
+      "deal": "Weekly Flyer Special",
+      "details": "Ontario-grown long English seedless cucumber."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.18,
+      "unit": "each",
+      "deal": "Basics Value",
+      "details": "Local Greenhouse wrapped long cucumber."
+    },
+    "metro": {
+      "available": true,
+      "price": 1.69,
+      "unit": "each",
+      "deal": "Regular Price",
+      "details": "Premium Seedless long cucumber."
+    },
+    "comparisonReasoning": "Food Basics ($1.18) offers the cheapest local greenhouse seedless cucumber on special this week."
+  },
+  {
+    "name": "Greek Yogurt Tub",
+    "originalQuery": "yogurt",
+    "walmart": {
+      "available": true,
+      "price": 4.97,
+      "unit": "750g tub",
+      "deal": "Flyer Special",
+      "details": "Astro Original Balkan Style Set Yogurt tub."
+    },
+    "freshco": {
+      "available": true,
+      "price": 5.19,
+      "unit": "750g tub",
+      "deal": "Regular Price",
+      "details": "Astro Original Plain Natural Yogurt."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 4.88,
+      "unit": "750g tub",
+      "deal": "Basics Special",
+      "details": "Selection Premium Probiotic Greek Yogurt."
+    },
+    "metro": {
+      "available": true,
+      "price": 5.49,
+      "unit": "750g tub",
+      "deal": "Metro Reward Special",
+      "details": "Liberte Greek 2% Tub."
+    },
+    "comparisonReasoning": "Food Basics house brand 'Selection' greek yogurt is on sale at $4.88, while Walmart features Astro tub specials at $4.97."
+  },
+  {
+    "name": "Potato Chips",
+    "originalQuery": "chips",
+    "walmart": {
+      "available": true,
+      "price": 3.47,
+      "unit": "200g bag",
+      "deal": "2 for $7 Multi-buy",
+      "details": "Lay's Classic Family Size potato chips."
+    },
+    "freshco": {
+      "available": true,
+      "price": 2.99,
+      "unit": "200g bag",
+      "deal": "Scene+ Member Promo",
+      "details": "Compliments Premium Kettle Cooked Potato Chips."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 2.49,
+      "unit": "200g bag",
+      "deal": "Weekly Flyer Deal",
+      "details": "Selection wavy cut potato chips original."
+    },
+    "metro": {
+      "available": true,
+      "price": 3.99,
+      "unit": "200g bag",
+      "deal": "2 for $7.50 Special",
+      "details": "Irresistibles Kettle gourmet chips."
+    },
+    "comparisonReasoning": "Food Basics ($2.49) is the cheapest for standard snack bags, while FreshCo Scene+ offers name-brand kettle chips at $2.99."
+  },
+  {
+    "name": "Fresh Strawberries",
+    "originalQuery": "strawberries",
+    "walmart": {
+      "available": true,
+      "price": 3.97,
+      "unit": "1lb shell",
+      "deal": "Regular Price",
+      "details": "Sweet Red Strawberries Driscoll's imports."
+    },
+    "freshco": {
+      "available": true,
+      "price": 3.44,
+      "unit": "1lb shell",
+      "deal": "Weekly Flyer Special",
+      "details": "Grade A California Sweet Strawberries."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 3.48,
+      "unit": "1lb shell",
+      "deal": "Weekly Flyer Special",
+      "details": "Driscoll's California Sweet Strawberries."
+    },
+    "metro": {
+      "available": true,
+      "price": 4.49,
+      "unit": "1lb shell",
+      "deal": "Metro Member Special",
+      "details": "Premium Driscoll's Sweet Red box."
+    },
+    "comparisonReasoning": "FreshCo ($3.44) and Food Basics ($3.48) have imported sweet red strawberries at identical price ranges of ~$3.45 per shell."
+  },
+  {
+    "name": "Broccoli Crowns",
+    "originalQuery": "broccoli",
+    "walmart": {
+      "available": true,
+      "price": 2.27,
+      "unit": "each",
+      "deal": "Regular Price",
+      "details": "Fresh Crisp Green Broccoli Crown."
+    },
+    "freshco": {
+      "available": true,
+      "price": 1.88,
+      "unit": "each",
+      "deal": "Weekly Special",
+      "details": "Ottawa Valley Local Broccoli Crowns."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.79,
+      "unit": "each",
+      "deal": "Weekly Deal",
+      "details": "Local Ottawa crop crisp broccoli."
+    },
+    "metro": {
+      "available": true,
+      "price": 2.49,
+      "unit": "each",
+      "deal": "Regular Price",
+      "details": "Premium crown fresh broccoli."
+    },
+    "comparisonReasoning": "Food Basics leads with $1.79 crowns, while FreshCo holds local Ottawa Valley crowns at $1.88."
+  },
+  {
+    "name": "Sweet Orange Carrots",
+    "originalQuery": "carrots",
+    "walmart": {
+      "available": true,
+      "price": 1.97,
+      "unit": "2lb bag",
+      "deal": "Regular Price",
+      "details": "Cellopack Sweet Orange Carrots."
+    },
+    "freshco": {
+      "available": true,
+      "price": 1.79,
+      "unit": "2lb bag",
+      "deal": "Weekly Deal",
+      "details": "Ontario Grown Grade A cooking carrots."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.68,
+      "unit": "2lb bag",
+      "deal": "Weekly Basics Special",
+      "details": "Selection local harvested sweet orange carrots."
+    },
+    "metro": {
+      "available": true,
+      "price": 2.49,
+      "unit": "2lb bag",
+      "deal": "Regular Price",
+      "details": "Irresistibles Premium Organic Carrots."
+    },
+    "comparisonReasoning": "Food Basics ($1.68) has the lowest price. Cook's recipe carrots are on sale across both discount stores."
+  },
+  {
+    "name": "All Purpose Flour",
+    "originalQuery": "flour",
+    "walmart": {
+      "available": true,
+      "price": 11.47,
+      "unit": "10kg bag",
+      "deal": "Rollback Special",
+      "details": "Robin Hood Original All Purpose Flour."
+    },
+    "freshco": {
+      "available": true,
+      "price": 11.99,
+      "unit": "10kg bag",
+      "deal": "Regular Price",
+      "details": "Five Roses All Purpose Flour."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 10.99,
+      "unit": "10kg bag",
+      "deal": "Weekly Basics Peak",
+      "details": "Selection Premium Enriched White Flour."
+    },
+    "metro": {
+      "available": true,
+      "price": 12.99,
+      "unit": "10kg bag",
+      "deal": "Regular Price",
+      "details": "Robin Hood All Purpose flour."
+    },
+    "comparisonReasoning": "Food Basics features their Selection 10kg bag on sale for $10.99; otherwise, Walmart's brand-name Robin Hood Rollback is the best at $11.47."
+  },
+  {
+    "name": "Granulated Sugar",
+    "originalQuery": "sugar",
+    "walmart": {
+      "available": true,
+      "price": 2.97,
+      "unit": "2kg bag",
+      "deal": "Regular Price",
+      "details": "Rogers Fine Granulated White Sugar."
+    },
+    "freshco": {
+      "available": true,
+      "price": 2.88,
+      "unit": "2kg bag",
+      "deal": "Flyer Special",
+      "details": "Redpath Fine Granulated Sugar."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 2.79,
+      "unit": "2kg bag",
+      "deal": "Basics Special",
+      "details": "Selection Fine Granulated white sugar."
+    },
+    "metro": {
+      "available": true,
+      "price": 3.29,
+      "unit": "2kg bag",
+      "deal": "Regular Price",
+      "details": "Redpath fine granulated white sugar."
+    },
+    "comparisonReasoning": "Food Basics has the lowest sugar price at $2.79. Redpath is also discounted at FreshCo for $2.88."
+  },
+  {
+    "name": "Extra Virgin Olive Oil",
+    "originalQuery": "olive oil",
+    "walmart": {
+      "available": true,
+      "price": 8.97,
+      "unit": "1L bottle",
+      "deal": "Regular Price",
+      "details": "Gallo Extra Virgin Cold Pressed Olive Oil."
+    },
+    "freshco": {
+      "available": true,
+      "price": 7.99,
+      "unit": "1L bottle",
+      "deal": "Scene+ Weekly Special",
+      "details": "Compliments Imported Extra Virgin Olive Oil."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 7.49,
+      "unit": "1L bottle",
+      "deal": "Flyer Special",
+      "details": "Selection Pure Extra Virgin Olive Oil."
+    },
+    "metro": {
+      "available": true,
+      "price": 9.99,
+      "unit": "1L bottle",
+      "deal": "Member Rewards Promo",
+      "details": "Bertolli Original robust extra virgin olive oil."
+    },
+    "comparisonReasoning": "Food Basics offers their Selection 1L Olive Oil at $7.49. In terms of national brands, FreshCo's Scene+ special is $7.99."
+  },
+  {
+    "name": "Canned Flaked Tuna",
+    "originalQuery": "tuna",
+    "walmart": {
+      "available": true,
+      "price": 1.47,
+      "unit": "170g can",
+      "deal": "Rollback Special",
+      "details": "Clover Leaf Flaked White Tuna in water."
+    },
+    "freshco": {
+      "available": true,
+      "price": 1.25,
+      "unit": "170g can",
+      "deal": "Weekly Deal",
+      "details": "Ocean's Flaked White Tuna."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.19,
+      "unit": "170g can",
+      "deal": "Super Value Deal",
+      "details": "Selection flaked chunk light tuna."
+    },
+    "metro": {
+      "available": true,
+      "price": 1.69,
+      "unit": "170g can",
+      "deal": "Regular Price",
+      "details": "Clover Leaf Flaked albacore tuna."
+    },
+    "comparisonReasoning": "Food Basics has Selection light tuna at $1.19. Ocean's at FreshCo is also highly competitive at $1.25."
+  },
+  {
+    "name": "Pasta Tomato Sauce",
+    "originalQuery": "pasta sauce",
+    "walmart": {
+      "available": true,
+      "price": 1.97,
+      "unit": "650ml jar",
+      "deal": "Regular Price",
+      "details": "Classico Di Napoli Tomato & Basil Sauce."
+    },
+    "freshco": {
+      "available": true,
+      "price": 1.88,
+      "unit": "650ml jar",
+      "deal": "Flyer Deal",
+      "details": "Catelli Traditional Marinara Sauce."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.67,
+      "unit": "650ml jar",
+      "deal": "Basics Lower Price",
+      "details": "Selection Tomato Garlic Herbs pasta jar."
+    },
+    "metro": {
+      "available": true,
+      "price": 2.49,
+      "unit": "650ml jar",
+      "deal": "Weekly Special",
+      "details": "Classico Premium Roasted Garlic sauce."
+    },
+    "comparisonReasoning": "Food Basics is cheapest at $1.67 for their 650ml label. For premium brands, FreshCo offers Catelli specials at $1.88."
+  },
+  {
+    "name": "Semolina Spaghetti Pasta",
+    "originalQuery": "pasta",
+    "walmart": {
+      "available": true,
+      "price": 1.67,
+      "unit": "900g pack",
+      "deal": "Regular Price",
+      "details": "Italpasta Spaghetti Semolina Dried Pasta."
+    },
+    "freshco": {
+      "available": true,
+      "price": 1.49,
+      "unit": "900g pack",
+      "deal": "Flyer Special",
+      "details": "Primo Enriched Spaghetti Long Dried Pasta."
+    },
+    "foodbasics": {
+      "available": true,
+      "price": 1.38,
+      "unit": "900g pack",
+      "deal": "Basics Weekly Special",
+      "details": "Selection original semolina spaghetti."
+    },
+    "metro": {
+      "available": true,
+      "price": 1.99,
+      "unit": "900g pack",
+      "deal": "Regular Price",
+      "details": "Primo standard enriched spaghetti."
+    },
+    "comparisonReasoning": "Food Basics is offering 900g Selection spaghetti packs for just $1.38, while FreshCo offers Primo at $1.49."
+  }
+]

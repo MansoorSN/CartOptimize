@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Grocery Flyer Optimizer",
+  "description": "Compare Walmart and FreshCo flyers in K2E6J9 (Ottawa, Canada) to find the best prices for your grocery list and splits it for optimal savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
